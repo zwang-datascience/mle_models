@@ -186,7 +186,7 @@ if __name__ == '__main__':
     # Run k-fold Cross Validation on MLE-L model
     run_k_fold_cv(num_steps=100001, learning_rate=2.85e-4, k=k)
 
-    # # Save information 
+    # # Save information
     # save_model()
 
     # Plot train and test loss
